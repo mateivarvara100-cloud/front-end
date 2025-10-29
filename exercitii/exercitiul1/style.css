@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    margin: 20px;
+    border: 2px;
+    border-color: black;
+    margin: 135px 384px;
+}
+
+div{
+    width: 480px;
+    height: 600px;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+button{
+    background-color: #B7B235;
+    color: black;
+    border: none;
+    width: 198px;
+    height: 48px;
+}
+
